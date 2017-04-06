@@ -1,0 +1,5 @@
+bin/
+.classpath
+.project
+test/com/stefanodefaria/aes/decrypted.txt
+test/com/stefanodefaria/aes/encrypted.aes
